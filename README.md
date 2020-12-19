@@ -1,16 +1,27 @@
-# pcn
+# Project Chat Note
 
-A new Flutter project.
+- 간단한 채팅 방식으로 메모를 남기세요
+- 여러분은 메모만 남기세요. 원하는 정보를 필요할 때 보여드립니다.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### 기능
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- 채팅 형태의 메모
+- 메모 묶기
+- 사진, 동영상, 파일 등 추가기능
+- 온라인 연동
+- 위치 연동 알림
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+### BM
+
+- Target: 에버노트, 등의 노트 앱
+- 기존 앱보다 더 가볍고 개인화를 제공하는 앱
+
+
+
+### Branding
+
+- Chat Memo, Chat Note
