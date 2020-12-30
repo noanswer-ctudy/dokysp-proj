@@ -4,6 +4,7 @@
     <item android:drawable="@android:color/white" />
 
     <!-- You can insert your own image assets here -->
+    <!-- android:top="50dp" -->
     <item
         android:width="250dp"
         android:height="250dp"
